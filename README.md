@@ -19,6 +19,8 @@ Our chapter's leadership team includes:
 * Kevin Wong
   * GitHub: [@kk3wong](https://github.com/kk3wong)
   * Twitter: [@kk3wong](https://twitter.com/kk3wong)
+* Cao Jingbin
+  * GitHub: [@caojingbin](https://github.com/caojingbin)
   
   Please contact me if you want to help, join the team and grow the community! 
 
